@@ -5,13 +5,21 @@
   gh_user: nikomarjanovic
   repo: Titanic-Kaggle
   img: 
-  desc: Machine learning to predict survivors on the titanic
+  desc: Machine learning to predict survivors on the titanic. Use of Sklearn, Keras, Pandas and Numpy libraries.
 
 - name: Vidly mvc
   gh_user: nikomarjanovic
-  repo: Vidly-mvc
-  img: 
-  desc: First try at mvc
+  repo: VidlyMVC
+  img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.tech-fellow.net%2F2019%2F04%2F21%2Flocalizationprovider-joins-asp-net-mvc-family%2F&psig=AOvVaw381qzzyL7YcJw0bN7kAH0K&ust=1598718549370000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjBoPOovusCFQAAAAAdAAAAABAD
+  desc: Web-App for movie rental, made in the course of The Complete ASP.NET MVC 5 Course
+Includes
+
+Entity Framework w/code-first migrations
+RESTful API's
+Bootstrap
+Datatables for pagination, sorting and filtering of tables
+ASP.net Identity for roles and user accounts
+External logins with Oauth, Owin
 
 - name: NikoMarjanovic github io
   gh_user: nikomarjanovic
