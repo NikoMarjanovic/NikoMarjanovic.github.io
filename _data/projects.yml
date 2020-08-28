@@ -1,16 +1,10 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Kaggle Titanic prediction
-  gh_user: nikomarjanovic
-  repo: Titanic-Kaggle
-  img: /images/ML.jpeg
-  desc: Machine learning to predict survivors on the titanic. Use of Sklearn, Keras, Pandas and Numpy libraries.
-
 - name: Vidly mvc
   gh_user: nikomarjanovic
   repo: VidlyMVC
-  img: /images/MVC.jpeg
+  img: /images/MVC.jpg
   desc: |
     Web-App for movie rental, made in the course of The Complete ASP.NET MVC 5 Course 
     Includes 
@@ -20,6 +14,12 @@
     - Datatables for pagination, sorting and filtering of tables
     - ASP.net Identity for roles and user accounts
     - External logins with Oauth, Owin
+
+- name: Kaggle Titanic prediction
+  gh_user: nikomarjanovic
+  repo: Titanic-Kaggle
+  img: /images/ML.jpg
+  desc: Machine learning to predict survivors on the titanic. Use of Sklearn, Keras, Pandas and Numpy libraries.
 
 - name: NikoMarjanovic github io
   gh_user: nikomarjanovic
